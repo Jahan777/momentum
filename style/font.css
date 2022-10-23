@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'GothicA1-B';
+    src: url(../font/Gothic_A1/GothicA1-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'GothicA1-R';
+    src: url(../font/Gothic_A1/GothicA1-Regular.ttf);
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'fontawesome';
+    src: url(../Fonts/fontawesome5/fa-light-300.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'fontawesome';
+    src: url(../Fonts/fontawesome5/fa-duotone-900.ttf);
+    font-weight: 900;
+}
